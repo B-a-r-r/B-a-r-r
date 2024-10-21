@@ -9,7 +9,7 @@ Literally me:<br/>
 <a href="https://www.debian.org/index.fr.html">![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)</a>
 
 ## Hello world ! 🦊
-Welcome on my GitHub profil.<br/>
+Welcome on my GitHub profile.<br/>
 I'm a young **software developer**, interested in **AI** and **automation algorithms**.
 
 - ⚠️ You are strongly encouraged to **visit my portfolio** on <a href="https://clembarr.dev">clembarr.dev<a> or your computer might explode ⚠️

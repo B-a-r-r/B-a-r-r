@@ -1,6 +1,5 @@
 Literally me:<br/>
 <a href="https://obsidian.md/">![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)</a>
-<a href="https://music.youtube.com">![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)</a>
 <a href="https://code.visualstudio.com/">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a>
 <a href="https://docs.oracle.com/en/java/">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</a>
 <a href="https://docs.python.org/">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
@@ -21,6 +20,6 @@ I'm a young **software developer**, interested in **AI** and **automation algori
 <a href="https://www.linkedin.com/in/clement-barriere">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br/><sup>I'm **open to internship offers** btw.</sup>
 
-## Buy me a coffee 
+## Buy me a coffee ☕
 <a href="https://ko-fi.com/clembarr">![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
 <!-- ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white) -->

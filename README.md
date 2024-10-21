@@ -8,7 +8,8 @@ Literally me:<br/>
 <a href="https://www.debian.org/index.fr.html">![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)</a>
 
 ## Hello world ! 🦊
-Welcome on my GitHub profile.<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans+&weight=800&size=19&duration=4990&pause=1500&color=F7F7F7&vCenter=true&random=true&width=435&lines=Welcome+on+my+GitHub+profile+!+)](https://git.io/typing-svg)
+<br/>
 I'm a young **software developer**, interested in **AI** and **automation algorithms**.
 
 - ⚠️ You are strongly encouraged to **visit my portfolio** on <a href="https://clembarr.dev">clembarr.dev<a> or your computer might explode ⚠️

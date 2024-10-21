@@ -52,6 +52,5 @@ I'm a young **software developer**, interested in **AI** and **automation algori
 <a href="https://www.linkedin.com/in/clement-barriere">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <br/><sup>I'm **open to internship offers** btw.</sup>
 
-## Buy me a coffee
-
-
+## Buy me a coffee 
+<a href="https://ko-fi.com/clembarr">![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)</a>
